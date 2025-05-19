@@ -1,6 +1,6 @@
 # 2° Prova do professor Eyder
 
 # Feito por:
-# -Mayara
-# -Levi
-# -Irapuam
+# - Mayara Lima Miranda
+# - Levi Ribeiro Passos
+# - Irapuam Junio da Silva Santos
