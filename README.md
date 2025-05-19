@@ -1,4 +1,4 @@
-# 2° Prova do professor Eyder
+# 1° Prova do professor Eyder
 
 # Feito por:
 # - Mayara Lima Miranda
